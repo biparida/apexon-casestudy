@@ -28,14 +28,14 @@ Try to make use of the customer's preferred legacy tools.
 
 Security should be applied to each phase of the typical DevSecOps pipeline. 
 
-Plan
-Code
-Build
-Test
-Release
-Deploy
-Operate
-Monitor
+- Plan
+- Code
+- Build
+- Test
+- Release
+- Deploy
+- Operate
+- Monitor
 
 
 Planning includes selection of different technology/tools, environment.
