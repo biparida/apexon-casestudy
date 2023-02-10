@@ -53,3 +53,11 @@ Need to have the list of relevant tools for the pipeline.
 # Detailed Steps involved in CI/CD Flow
 
 [CI/CD Flow](cicd-flow.md)
+
+# How to securely store the artifacts?
+
+[Artifactory](artifactory.cmd) 
+
+# Smooth functioning of the deployment
+
+[Deployment](deployment.md)
