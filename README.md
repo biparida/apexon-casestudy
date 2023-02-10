@@ -49,3 +49,7 @@ Need to have the list of relevant tools for the pipeline.
 | Performance test  | JMeter, BlazeMeter (JMeter on the cloud)  |
 | Unit test  |  JUnit,Jasmine  |
 |  Build | Npm, Maven  |
+
+# Detailed Steps involved in CI/CD Flow
+
+[CI/CD Flow](cicd-flow.md)
