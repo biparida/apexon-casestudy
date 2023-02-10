@@ -15,18 +15,11 @@ To minimize the amount of data being transferred.
 
 ### To address the issue of limited knowledge of the customers
 
-Try to make use of the customer's preferred legacy tools.
+- Try to make use of the customer's preferred legacy tools.
 
+- Security should be applied to each phase of the typical DevSecOps pipeline. 
 
-### As a DevOps Engineer, Design the DevSecOps pipeline which enables
-1. Continuous integration, Delivery and Deployment
-2. Continuous feedback mechanism
-3. Artifacts of the product company &amp; assets of customers are secured
-4. Smooth functioning of the deployment once installed or upgraded
-
-
-
-Security should be applied to each phase of the typical DevSecOps pipeline. 
+Different steps involved in the CI/CD pipeline are as follows:
 
 - Plan
 - Code
@@ -56,7 +49,3 @@ Need to have the list of relevant tools for the pipeline.
 | Performance test  | JMeter, BlazeMeter (JMeter on the cloud)  |
 | Unit test  |  JUnit,Jasmine  |
 |  Build | Npm, Maven  |
-
-
-
-![image Info](file:///C:/code/cicd-flow.png)
