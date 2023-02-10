@@ -56,3 +56,7 @@ Need to have the list of relevant tools for the pipeline.
 | Performance test  | JMeter, BlazeMeter (JMeter on the cloud)  |
 | Unit test  |  JUnit,Jasmine  |
 |  Build | Npm, Maven  |
+
+
+
+![image Info](file:///C:/code/cicd-flow.png)
